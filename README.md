@@ -1,5 +1,18 @@
-# ML-Datascience
+# ML_Predictions for Diabets and Titanic survirors ....
 
-welcome to ML, you will learn how to code and configure everything ...
 
-hopefully you gonna learn alot of it. Regards
+
+# you will find the pima indians csv datasets here:
+
+https://www.kaggle.com/uciml/pima-indians-diabetes-database
+
+# the titanic survivor prediction datasets is here:
+
+https://www.kaggle.com/c/titanic
+
+
+# coding
+
+all codes are integrated in the colab notebook apploded here on github: rukuprince@gmail.com
+
+
